@@ -1,0 +1,3 @@
+com/example/weather/config/SecurityConfig.class
+com/example/weather/WeatherBackendApplication.class
+com/example/weather/controllers/WeatherController.class
